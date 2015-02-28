@@ -4,7 +4,7 @@ Committees and Chairs:
 1. Design team
 
    Chair: Mark Steve Samson
-### responsible for PyCon 2015 website
+  * responsible for PyCon 2015 website
 -- responsible for web and print advertisement
 -- responsible for tarpoline and banner designs
 -- responsible for brochure
