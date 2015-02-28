@@ -48,7 +48,7 @@ Committees and Chairs:
 
 6. Program Committee
 
-   Chair: Sony Valdez and Stef Sy
+   Chair: Sony Valdez, Stef Sy and Rodolfo Duldulao
   * responsible for coming up with a theme.
   * responsible for making a schedule.
   * responsible for calling, choosing, and preparing for speakers.
