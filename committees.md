@@ -10,13 +10,13 @@ Committees and Chairs:
   * responsible for brochure
   * responsible for speakers, volunteer, and participants IDs
 
-2. Logistics team
+2. **Logistics team**
 
    Chair: Matt Lebrun
   * responsible for conference food, volunteer dinner, and footwork
   * 2 leaders
 
-3. Stage-hand team
+3. **Stage-hand team**
 
    Chair: Josef Monje
   * responsible for video coverage.
@@ -25,12 +25,12 @@ Committees and Chairs:
   * should see to the needs of the audience.
   * responsible for ensuring that our Code of Conduct is enforced throughout the conference.
 
-4. Fundraising
+4. **Fundraising**
 
    Chair: Nadine Jamilla and Stef Sy
   * responsible for talking with the sponsors and looking for other sponsors.
 
-5. Outreach
+5. **Outreach**
 
    Chair: Randall Sayat and Grace Coroza
   * responsible for going to events and advertising PyCon 2015.
@@ -46,7 +46,7 @@ Committees and Chairs:
    * escort to hotel
    * immigration letters
 
-6. Program Committee
+6. **Program Committee**
 
    Chair: Sony Valdez, Stef Sy and Rodolfo Duldulao
   * responsible for coming up with a theme.
