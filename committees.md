@@ -12,7 +12,7 @@ Committees and Chairs:
 
 2. **Logistics team**
 
-   Chair: Matt Lebrun, Beato Bongco
+   Chair: Matt Lebrun and Beato Bongco
   * responsible for conference food, volunteer dinner, and footwork
   * 2 leaders
 
