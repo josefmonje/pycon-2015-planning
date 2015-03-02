@@ -30,7 +30,7 @@ Committees and Chairs:
    Chair: Nadine Jamilla and Stef Sy
   * responsible for talking with the sponsors and looking for other sponsors.
 
-5. **Outreach**
+5. **Marketing and Community Relations (Outreach)**
 
    Chair: Randall Sayat, Grace Coroza and Beato Bongco
   * responsible for going to events and advertising PyCon 2015.
