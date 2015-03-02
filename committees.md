@@ -32,7 +32,7 @@ Committees and Chairs:
 
 5. **Outreach**
 
-   Chair: Randall Sayat and Grace Coroza
+   Chair: Randall Sayat, Grace Coroza and Beato Bongco
   * responsible for going to events and advertising PyCon 2015.
   * responsible for social media exposure (facebook, twitter, etc).
   * responsible for writing a report on PyCon 2015, to be used for blogs and future references
