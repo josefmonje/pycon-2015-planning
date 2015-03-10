@@ -37,12 +37,12 @@ Committees and Chairs:
   * responsible for writing a report on PyCon 2015, to be used for blogs and future references
   * responsible for gathering feedback (during pycon and after pycon).
   * responsible for mailchimp (email marketing and announcements)
-  * responsible for informing participants of Code of Conduct prior to conference.
+  * responsible for informing participants of [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) prior to conference.
   * Filipino hospitality for our foreign speakers 
-   * Accomodation
+   * Accomodation for foreign speakers/guests 
    * Merienda
-   * Meeting at the airport
-   * escort to hotel
+   * Meeting foreign speakers/guests at the airport
+   * escort foreign speakers/guests to their hotel
    * immigration letters
 
 6. **Program Committee**
