@@ -36,7 +36,7 @@ Committees and Chairs:
   * responsible for social media exposure (facebook, twitter, etc).
   * responsible for writing a report on PyCon 2015, to be used for blogs and future references
   * responsible for gathering feedback (during pycon and after pycon).
-  * responsible for mailchimp
+  * responsible for mailchimp (email marketing and announcements)
   * responsible for informing participants of Code of Conduct prior to conference.
   * Filipino hospitality for our foreign speakers 
    * Accomodation
