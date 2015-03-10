@@ -23,7 +23,7 @@ Committees and Chairs:
   * responsible for extra projector, microphone, tables, laptop, etc.
   * should be on standby in case something goes wrong on-stage.
   * should see to the needs of the audience.
-  * responsible for ensuring that our Code of Conduct is enforced throughout the conference.
+  * responsible for ensuring that our [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) is enforced throughout the conference.
 
 4. **Fundraising**
 
