@@ -13,7 +13,7 @@ Committees and Chairs:
 2. **Logistics team**
 
    Chair: Matt Lebrun and Beato Bongco
-  * responsible for conference food, volunteer dinner, and footwork
+  * responsible for conference food, volunteer dinner, and footwork (our venue this year will be in Ateneo de Manila, so tasks include all the footwork and communication needed to get things in order)
   * 2 leaders
 
 3. **Stage-hand team**
