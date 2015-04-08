@@ -22,7 +22,7 @@ Committees and Chairs:
   * responsible for extra projector, microphone, tables, laptop, etc.
   * should be on standby in case something goes wrong on-stage.
   * should see to the needs of the audience.
-  * responsible for ensuring that our [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) is enforced throughout the conference.
+  * responsible for ensuring that our [Code of Conduct](http://pycon.python.ph/coc.html) is enforced throughout the conference.
 
 4. **Fundraising**
 
@@ -37,7 +37,7 @@ Committees and Chairs:
   * responsible for writing a report on PyCon 2015, to be used for blogs and future references
   * responsible for gathering feedback (during pycon and after pycon).
   * responsible for mailchimp (email marketing and announcements)
-  * responsible for informing participants of [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) prior to conference.
+  * responsible for informing participants of [Code of Conduct](http://pycon.python.ph/coc.html) prior to conference.
   * Filipino hospitality for our foreign speakers 
    * Accomodation for foreign speakers/guests 
    * Merienda
